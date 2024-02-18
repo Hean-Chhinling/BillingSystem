@@ -73,7 +73,7 @@ REACT_APP_FIREBASE_REALTIME_DATABASE=your_realtime_database_url
 
 We welcome contributions from everyone. Here's how you can contribute:
 
-- Fork the repository and create your branch from `main`.
+- Fork the repository and create your branch from `master`.
 - Make your changes and test them.
 - Submit a pull request with a clear description of your changes.
 
