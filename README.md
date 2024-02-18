@@ -7,6 +7,11 @@ Welcome to BillingSystem, an innovative platform designed to streamline the bill
 ![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-38B2AC?logo=tailwind-css&logoColor=white)
 ![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?logo=firebase&logoColor=black)
 
+## Usage
+For a live demo, visit [https://billingsystemcal.netlify.app](https://billingsystemcal.netlify.app). Follow the installation instructions below for local usage.
+
+https://github.com/Hean-Chhinling/BillingSystem/assets/92643868/345e9c64-d784-49af-9f93-8aedc514b12c
+
 ## About BillingSystem
 
 BillingSystem is developed to tackle the manual and cumbersome billing processes faced by landlords and property managers. With features like auto PDF generation for billing statements and user profile management, the platform ensures a hassle-free billing experience.
@@ -59,10 +64,6 @@ REACT_APP_FIREBASE_STORAGE_BUCKET=your_storage_bucket
 REACT_APP_FIREBASE_MESSAGING_SENDER_ID=your_messaging_sender_id
 REACT_APP_FIREBASE_APP_ID=your_app_id
 ```
-
-## Usage
-
-For a live demo, visit [https://billingsystemcal.netlify.app](https://billingsystemcal.netlify.app). Follow the installation instructions above for local usage.
 
 ## Contributing
 
