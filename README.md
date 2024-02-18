@@ -46,6 +46,9 @@ cd BillingSystem
 # Install the required dependencies
 npm install
 
+# Install all the external library dependencies
+bash install_dependencies.sh
+
 # Start the development server
 npm start
 ```
