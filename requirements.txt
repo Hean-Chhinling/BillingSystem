@@ -1,0 +1,13 @@
+
+# This file lists all the npm commands needed to install the external libraries for the project.
+# To install all dependencies, save this file as install_dependencies.sh and run it with the following command:
+
+# bash install_dependencies.sh
+
+npm install uuid
+npm install --save react-spinners
+npm install react-router-dom
+npm install react-pdf
+npm install tailwindcss
+npx tailwindcss init
+npm install react
