@@ -38,7 +38,7 @@ To get BillingSystem up and running on your local machine, follow these steps:
 
 ```sh
 # Clone the repository
-git clone https://github.com/yourusername/BillingSystem.git
+git clone https://github.com/Hean-Chhinling/BillingSystem.git
 
 # Navigate to the project directory
 cd BillingSystem
@@ -63,6 +63,10 @@ REACT_APP_FIREBASE_PROJECT_ID=your_project_id
 REACT_APP_FIREBASE_STORAGE_BUCKET=your_storage_bucket
 REACT_APP_FIREBASE_MESSAGING_SENDER_ID=your_messaging_sender_id
 REACT_APP_FIREBASE_APP_ID=your_app_id
+REACT_APP_FIREBASE_MEASUREMENT_ID=your_measurement_id
+REACT_APP_FIREBASE_DATABASE_URL=your_database_url
+REACT_APP_FIREBASE_REALTIME_DATABASE=your_realtime_database_url
+
 ```
 
 ## Contributing
@@ -85,4 +89,4 @@ Hean Chhinling - heanchhinling@gmail.com
 
 Phone: +36208089360
 
-Project Link: [https://github.com/yourusername/BillingSystem](https://github.com/yourusername/BillingSystem)
+Project Link: [https://github.com/Hean-Chhinling/BillingSystem](https://github.com/Hean-/BillingSystem)
